@@ -49,9 +49,11 @@ public class Renan {
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/renancba/
 [linkedin]: https://www.linkedin.com/in/renancba/
+[email]: mailto:renantrezeano13@gmail.com
 <br>
 
 #### Rede Sociais!
 
 👔 [linkedin][linkedin] **|** 
+📧 [email][email] **|**
 📷 [instagram][instagram] 
