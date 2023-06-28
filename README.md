@@ -11,7 +11,7 @@ e fascínio em aprender novas tecnologias. Também adoro viajar, conhecer novos 
 ```java
 public class Renan {
     private String name = "Renan Carneiro Barbosa de Araújo";
-    private String acknowledgements = "Desenvolvimento Full-Stack";
+    private String occupation = "Desenvolvedor Full-Stack";
     
     private String primarySkillset = "Comunicação objetiva, espirito de liderança, entusiasmo em ensinar, facilidade no aprendizado";
     private String[] languages = {"Java", "JavaScript", "TypeScript", "Angular", "HTML", "CSS"};
