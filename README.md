@@ -47,7 +47,7 @@ public class Renan {
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/renancba/
+[instagram]: https://www.instagram.com/renan_cba/
 [linkedin]: https://www.linkedin.com/in/renancba/
 [email]: mailto:renantrezeano13@gmail.com
 <br>
